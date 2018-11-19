@@ -41,3 +41,4 @@ wiki/webdrivers
 /src/test/resources/htmlReports/test-results.csv
 wiki/FitNesseRoot/HsacExamples/SlimTests/UtilityFixtures/GeneratedSymbolicLinkSuite/*LocaleTests.wiki
 wiki/FitNesseRoot/ReRunLastFailures.wiki
+/.jqwik-database
